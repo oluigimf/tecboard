@@ -14,7 +14,7 @@
 }
 
 p{
-    color: #FFFFFF;
+    color: black;
     text-align: center;
     font-size: 24px;
     font-family: "Poppins";
@@ -64,4 +64,3 @@ section img{
     margin-left: auto;
     margin-right: auto;
 }
-
